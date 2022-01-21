@@ -1,0 +1,17 @@
+div{
+    background-color: aqua;
+    width: min-content;
+    border: solid rgb(224, 21, 21);
+}
+
+
+
+.fixed{
+  position:fixed;
+  right: 400px;
+    
+}
+.absolute{
+    position: absolute;
+    right:500px;
+}
